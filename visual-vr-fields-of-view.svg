@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%"
+    height="100%" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+    style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <style>
+        .text-light {
+            font-family: 'Barlow-Regular', 'Barlow';
+            font-size: 24px;
+        }
+        .text-bold {
+            font-family: 'Barlow-SemiBold', 'Barlow';
+            font-weight: 600;
+            font-size: 24px;
+        }
+        .lightblue {
+            fill: #00a2ff;
+            fill-opacity: 0.06;
+        }
+        .solid {
+            stroke: #000;
+            stroke-width: 1px;
+        }
+    </style>
+    <g id="fields-of-view">
+        <path
+            d="M1554.61,969.206c25.246,-69.362 38.161,-142.606 38.161,-216.42c-0,-349.234 -283.534,-632.768 -632.769,-632.768c-349.235,-0 -632.769,283.534 -632.769,632.768c0,73.814 12.915,147.058 38.161,216.42l594.608,-216.42l594.608,216.42Z"
+            class="lightblue solid" />
+        <path
+            d="M1267.11,445.679c-81.45,-81.449 -191.92,-127.207 -307.107,-127.207c-115.187,-0 -225.657,45.758 -307.107,127.207l307.107,307.107l307.107,-307.107Z"
+            class="lightblue solid" />
+        <path
+            d="M1393.17,449.476c-98.96,-141.329 -260.642,-225.496 -433.173,-225.496c-172.531,-0 -334.213,84.167 -433.173,225.496l433.173,303.31l433.173,-303.31Z"
+            class="lightblue solid" />
+        <g transform="matrix(1,0,0,1,-5.15064,-184.432)">
+            <text x="929.019px" y="544.612px" class="text-bold">Oculus</text>
+            <text x="940.335px" y="568.612px" class="text-light">~90°</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-3.27204,-25.0891)">
+            <text x="940.33px" y="294.101px" class="text-bold">Vive</text>
+
+            <text x="937.246px" y="318.101px" class="text-light">~110°</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-121.841,-24.0515)">
+            <text x="1021.84px" y="195.821px" class="text-bold">Human Eye</text>
+            <text x="1053.2px" y="219.821px" class="text-light">~210°</text>
+        </g>
+        <g id="Head-top0">
+            <path
+                d="M933.512,766.224c-0.199,-1.015 -3.989,-20.417 -4.31,-27.945c-0.577,-13.546 20.525,-13.764 30.795,-13.764c10.27,0 31.403,0.218 30.825,13.764c-0.32,7.528 -4.111,26.93 -4.31,27.945l0.016,0.042l-53.032,-0l0.016,-0.042Z"
+                style="fill:#3f3f3f;stroke:#000;stroke-width:1px;" />
+            <path
+                d="M986.229,779.402c-0.212,-0.792 0.258,-1.607 1.05,-1.819l1.996,-0.535c1.501,-0.402 3.536,1.337 4.782,5.988c0.725,2.703 0.46,7.012 -1.181,7.452c-1.996,0.535 -2.752,-1.498 -2.964,-2.29l-3.683,-8.796Z"
+                style="fill:#fff;stroke:#000;stroke-width:1px;" />
+            <path
+                d="M933.771,779.402c0.212,-0.792 -0.258,-1.607 -1.05,-1.819l-1.996,-0.535c-1.501,-0.402 -3.536,1.337 -4.782,5.988c-0.725,2.703 -0.46,7.012 1.181,7.452c1.996,0.535 2.752,-1.498 2.964,-2.29l3.683,-8.796Z"
+                style="fill:#fff;stroke:#000;stroke-width:1px;" />
+            <path
+                d="M960,818.069c-20.527,0 -33.097,-16.864 -30.597,-37.238c3.214,-26.203 15.458,-37.147 30.597,-37.147c15.139,-0 27.383,10.944 30.597,37.147c2.5,20.374 -10.07,37.238 -30.597,37.238Z"
+                style="fill:#fff;stroke:#000;stroke-width:1px;" />
+        </g>
+    </g>
+</svg>

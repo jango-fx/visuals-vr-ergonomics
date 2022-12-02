@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%"
+    height="100%" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+    style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <style>
+        .text-bold {
+            font-family: 'Barlow-SemiBold', 'Barlow';
+            font-weight: 600;
+            font-size: 24px;
+        }
+        .lightblue {
+            fill: #00a2ff;
+            fill-opacity: 0.06;
+        }
+        .solid {
+            stroke: #000;
+            stroke-width: 1px;
+        }
+        .dotted {
+            stroke: #000;
+            stroke-width: 1px;
+            stroke-dasharray: 2 7;
+        }
+    </style>
+    <g id="zones-of-perception">
+        <g>
+            <circle id="circle-3" cx="959.365" cy="540" r="475" class="lightblue solid" />
+            <circle id="circle-1" cx="959.365" cy="540" r="130" class="lightblue solid" />
+        </g>
+        <path
+            d="M513.011,377.54c-18.951,52.068 -28.646,107.051 -28.646,162.46c0,262.16 212.841,475 475,475c262.16,0 475,-212.84 475,-475c0,-55.409 -9.694,-110.392 -28.646,-162.46l-324.194,117.997c5.187,14.251 7.84,29.298 7.84,44.463c0,71.749 -58.251,130 -130,130c-71.749,-0 -130,-58.251 -130,-130c0,-15.165 2.654,-30.212 7.84,-44.463l-324.194,-117.997Z"
+            class="lightblue dotted" />
+        <path
+            d="M500.551,662.939c55.643,207.662 243.827,352.061 458.814,352.061c214.988,0 403.172,-144.399 458.815,-352.061l-333.244,-89.293c-15.229,56.834 -66.732,96.354 -125.571,96.354c-58.838,-0 -110.341,-39.52 -125.57,-96.354l-333.244,89.293Z"
+            class="lightblue dotted" />
+        <text x="899.341px" y="472.878px" class="text-bold">No No Zone</text>
+        <g transform="translate(-122.215,44.6065)">
+            <text x="1016.48px" y="195.821px" class="text-bold">Comfortable</text>
+            <text x="1039.99px" y="219.821px" class="text-bold">Content</text>
+            <text x="1055.4px" y="243.821px" class="text-bold">Zone</text>
+        </g>
+        <g transform="translate(-122.215,632.322)">
+            <text x="1034.76px" y="195.821px" class="text-bold">Curiosity</text>
+            <text x="1055.4px" y="219.821px" class="text-bold">Zone</text>
+        </g>
+        <g transform="translate(206.006,340.747)">
+            <text x="1027.22px" y="195.821px" class="text-bold">Peripheral</text>
+            <text x="1055.4px" y="219.821px" class="text-bold">Zone</text>
+        </g>
+        <g transform="translate(-450.028,340.747)">
+            <text x="1027.22px" y="195.821px" class="text-bold">Peripheral</text>
+            <text x="1055.4px" y="219.821px" class="text-bold">Zone</text>
+        </g>
+        <g id="head-top0">
+            <path
+                d="M933.512,534.932c-0.199,-1.015 -3.989,-20.417 -4.31,-27.945c-0.577,-13.546 20.525,-13.764 30.795,-13.764c10.27,0 31.403,0.218 30.825,13.764c-0.32,7.528 -4.111,26.93 -4.31,27.945l0.016,0.042l-53.032,-0l0.016,-0.042Z"
+                style="fill:#3f3f3f;stroke:#000;stroke-width:1px;" />
+            <path
+                d="M986.229,548.11c-0.212,-0.792 0.258,-1.607 1.05,-1.819l1.996,-0.535c1.501,-0.402 3.536,1.336 4.782,5.987c0.725,2.704 0.46,7.013 -1.181,7.453c-1.996,0.535 -2.752,-1.498 -2.964,-2.29l-3.683,-8.796Z"
+                style="fill:#fff;stroke:#000;stroke-width:1px;" />
+            <path
+                d="M933.771,548.11c0.212,-0.792 -0.258,-1.607 -1.05,-1.819l-1.996,-0.535c-1.501,-0.402 -3.536,1.336 -4.782,5.987c-0.725,2.704 -0.46,7.013 1.181,7.453c1.996,0.535 2.752,-1.498 2.964,-2.29l3.683,-8.796Z"
+                style="fill:#fff;stroke:#000;stroke-width:1px;" />
+            <path
+                d="M960,586.777c-20.527,-0 -33.097,-16.864 -30.597,-37.238c3.214,-26.203 15.458,-37.147 30.597,-37.147c15.139,-0 27.383,10.944 30.597,37.147c2.5,20.374 -10.07,37.238 -30.597,37.238Z"
+                style="fill:#fff;stroke:#000;stroke-width:1px;" />
+        </g>
+    </g>
+</svg>

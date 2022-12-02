@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%"
+    height="100%" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+    style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <style>
+        .text-light {
+            font-family: 'Barlow-Regular', 'Barlow';
+            font-size: 24px;
+        }
+        .text-bold {
+            font-family: 'Barlow-SemiBold', 'Barlow';
+            font-weight: 600;
+            font-size: 24px;
+        }
+        .lightblue {
+            fill: #00a2ff;
+            fill-opacity: 0.06;
+        }
+        .solid {
+            stroke: #000;
+            stroke-width: 1px;
+        }
+    </style>
+    <g id="social-distances">
+        <g id="circles">
+            <circle id="circle-3" cx="959.365" cy="540" r="475" class="lightblue solid" />
+            <circle id="circle-2" cx="959.365" cy="540" r="300" class="lightblue solid" />
+            <circle id="circle-1" cx="959.365" cy="540" r="130" class="lightblue solid" />
+        </g>
+        <g id="head-top0">
+            <path
+                d="M935.882,534.932c-0.199,-1.015 -3.99,-20.417 -4.311,-27.945c-0.577,-13.546 20.525,-13.764 30.795,-13.764c10.27,0 31.403,0.218 30.826,13.764c-0.321,7.528 -4.111,26.93 -4.311,27.945l0.016,0.042l-53.031,-0l0.016,-0.042Z"
+                style="fill:#3f3f3f;stroke:#000;stroke-width:1px;" />
+            <path
+                d="M988.598,548.11c-0.212,-0.792 0.259,-1.607 1.051,-1.819l1.995,-0.535c1.501,-0.402 3.536,1.336 4.783,5.987c0.724,2.704 0.459,7.013 -1.182,7.453c-1.995,0.535 -2.751,-1.498 -2.963,-2.29l-3.684,-8.796Z"
+                style="fill:#fff;stroke:#000;stroke-width:1px;" />
+            <path
+                d="M936.141,548.11c0.212,-0.792 -0.259,-1.607 -1.051,-1.819l-1.995,-0.535c-1.501,-0.402 -3.536,1.336 -4.783,5.987c-0.724,2.704 -0.459,7.013 1.182,7.453c1.995,0.535 2.751,-1.498 2.963,-2.29l3.684,-8.796Z"
+                style="fill:#fff;stroke:#000;stroke-width:1px;" />
+            <path
+                d="M962.37,586.777c-20.528,-0 -33.097,-16.864 -30.598,-37.238c3.215,-26.203 15.458,-37.147 30.598,-37.147c15.139,-0 27.382,10.944 30.597,37.147c2.499,20.374 -10.07,37.238 -30.597,37.238Z"
+                style="fill:#fff;stroke:#000;stroke-width:1px;" />
+        </g>
+
+        <text x="1166.05px" y="274.105px" class="text-bold">Social Space</text>
+        <text x="1299.81px" y="141.785px" class="text-bold">Public Space</text>
+        <text x="1031.2px" y="406.965px" class="text-bold">Personal Space</text>
+        <text x="975.719px" y="488.875px" class="text-bold">Intimate</text>
+    </g>
+</svg>

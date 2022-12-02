@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%"
+    height="100%" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+    style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <style>
+        .text-light {
+            font-family: 'Barlow-Regular', 'Barlow';
+            font-size: 20px;
+        }
+        .text-bold {
+            font-family: 'Barlow-SemiBold', 'Barlow';
+            font-weight: 600;
+            font-size: 24px;
+        }
+        .text-small-bold {
+            font-family: 'Barlow-Bold', 'Barlow';
+            font-weight: 700;
+            font-size: 20px;
+        }
+        .lightblue {
+            fill: #00a2ff;
+            fill-opacity: 0.06;
+        }
+        .solid {
+            stroke: #000;
+            stroke-width: 1px;
+        }
+        .dotted {
+            stroke: #000;
+            stroke-width: 1px;
+            stroke-dasharray: 2 7;
+        }
+    </style>
+    <g id="stereo-perception">
+        <g>
+            <path
+                d="M1554.61,969.206c25.246,-69.362 38.161,-142.606 38.161,-216.42c-0,-349.234 -283.534,-632.768 -632.769,-632.768c-349.235,-0 -632.769,283.534 -632.769,632.768c0,73.814 12.915,147.058 38.161,216.42l594.608,-216.42l594.608,216.42Z"
+                class="lightblue solid" />
+            <path
+                d="M1041.32,699.816c-21.566,-21.567 -50.817,-33.683 -81.317,-33.683c-30.5,-0 -59.751,12.116 -81.317,33.683l81.317,81.317l81.317,-81.317Z"
+                class="lightblue dotted" />
+            <path
+                d="M1067.83,673.299c-28.6,-28.599 -67.388,-44.666 -107.834,-44.666c-40.446,-0 -79.234,16.067 -107.834,44.666l107.834,107.834l107.834,-107.834Z"
+                class="lightblue dotted" />
+            <path
+                d="M1136.78,604.356c-46.884,-46.884 -110.473,-73.223 -176.777,-73.223c-66.304,-0 -129.893,26.339 -176.777,73.223l176.777,176.777l176.777,-176.777Z"
+                class="lightblue dotted" />
+            <path
+                d="M1272.89,468.238c-82.985,-82.985 -195.537,-129.605 -312.895,-129.605c-117.358,-0 -229.91,46.62 -312.895,129.605l312.895,312.895l312.895,-312.895Z"
+                class="lightblue dotted" />
+            <path
+                d="M498.702,319.835c115.465,-122.965 279.477,-199.817 461.298,-199.817c181.821,-0 345.833,76.852 461.298,199.817l-440.516,440.516l-20.782,-7.565l-20.782,7.565l-440.516,-440.516Z"
+                class="lightblue solid" />
+        </g>
+
+        <text x="929.616px" y="95px" class="text-bold">No 3D</text>
+        <text x="914.659px" y="251px" class="text-bold">Some 3D</text>
+        <text x="909.067px" y="459px" class="text-bold">Strong 3D</text>
+        <text x="906.945px" y="660px" class="text-bold">Eye Strain</text>
+        <text x="898.893px" y="712px" class="text-bold">Cross-Eyed</text>
+        
+        <text x="448.959px" y="325px" class="text-small-bold">20m</text>
+        <text x="603.278px" y="477px" class="text-small-bold">10m</text>
+        <text x="749.785px" y="614px" class="text-small-bold">1m</text>
+        <text x="801.926px" y="683px" class="text-small-bold">0.5m</text>
+
+        <g>
+            <text x="1270px" y="830px" class="text-bold">Human Eye</text>
+            <text x="1270px" y="850px" class="text-light">~210°</text>
+        </g>
+
+        <g id="head-top0">
+            <path
+                d="M933.512,784.116c-0.199,-1.015 -3.989,-20.417 -4.31,-27.945c-0.577,-13.546 20.525,-13.764 30.795,-13.764c10.27,0 31.403,0.218 30.825,13.764c-0.32,7.528 -4.111,26.93 -4.31,27.945l0.016,0.042l-53.032,-0l0.016,-0.042Z"
+                style="fill:#3f3f3f;stroke:#000;stroke-width:1px;" />
+            <path
+                d="M986.229,797.294c-0.212,-0.792 0.258,-1.607 1.05,-1.819l1.996,-0.535c1.501,-0.402 3.536,1.336 4.782,5.987c0.725,2.704 0.46,7.013 -1.181,7.453c-1.996,0.535 -2.752,-1.498 -2.964,-2.29l-3.683,-8.796Z"
+                style="fill:#fff;stroke:#000;stroke-width:1px;" />
+            <path
+                d="M933.771,797.294c0.212,-0.792 -0.258,-1.607 -1.05,-1.819l-1.996,-0.535c-1.501,-0.402 -3.536,1.336 -4.782,5.987c-0.725,2.704 -0.46,7.013 1.181,7.453c1.996,0.535 2.752,-1.498 2.964,-2.29l3.683,-8.796Z"
+                style="fill:#fff;stroke:#000;stroke-width:1px;" />
+            <path
+                d="M960,835.961c-20.527,-0 -33.097,-16.864 -30.597,-37.238c3.214,-26.203 15.458,-37.147 30.597,-37.147c15.139,-0 27.383,10.944 30.597,37.147c2.5,20.374 -10.07,37.238 -30.597,37.238Z"
+                style="fill:#fff;stroke:#000;stroke-width:1px;" />
+        </g>
+    </g>
+</svg>
