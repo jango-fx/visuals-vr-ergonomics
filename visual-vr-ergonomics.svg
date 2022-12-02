@@ -6,12 +6,12 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;600');
         .text-light {
-            font-family: 'Barlow-Regular', 'Barlow';
+            font-family: 'Barlow-Regular', 'Barlow', sans-serif;
             font-size: 20px;
         }
 
         .text-bold {
-            font-family: 'Barlow-SemiBold', 'Barlow';
+            font-family: 'Barlow-SemiBold', 'Barlow', sans-serif;
             font-weight: 600;
             font-size: 24px;
         }
