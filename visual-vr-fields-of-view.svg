@@ -4,19 +4,23 @@
     xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;600');
         .text-light {
             font-family: 'Barlow-Regular', 'Barlow';
             font-size: 24px;
         }
+
         .text-bold {
             font-family: 'Barlow-SemiBold', 'Barlow';
             font-weight: 600;
             font-size: 24px;
         }
+
         .lightblue {
             fill: #00a2ff;
             fill-opacity: 0.06;
         }
+
         .solid {
             stroke: #000;
             stroke-width: 1px;
